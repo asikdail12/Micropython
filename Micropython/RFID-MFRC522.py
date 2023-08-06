@@ -1,6 +1,10 @@
 from machine import Pin, SPI
 from os import uname
 
+__version__ = '1.2.8'
+__author__ = 'ASIK DAIL KUFFER ASSOCIATION FOR ROBOTICS & PROGAMMING WITH PENETRATION TESTING CLUB (ARPT)'
+__license__ = "Apache License 2.0. https://www.apache.org/licenses/LICENSE-2.0"
+
 
 class MFRC522:
 
